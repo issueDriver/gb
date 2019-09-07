@@ -11,6 +11,7 @@
     <modules>
         <module>gd-eureka</module>
         <module>gd-gateway</module>
+        <module>gd-service</module>
     </modules>
 
     <name>gb</name>
